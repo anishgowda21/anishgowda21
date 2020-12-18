@@ -14,8 +14,6 @@
 	<a href="https://www.youtube.com/channel/UCCn2An2snDhY6j2i5lRCIpA"> <img  width = 25px align="left"  alt = Anish Youtube src="https://raw.githubusercontent.com/anishgowda21/SVG_for_README/main/youtube-minimal-icon-1.svg"></a>
 	<a href="https://www.reddit.com/user/Anish_Gowda"> <img  width = 25px align="left"  alt =Anish Reddit src="https://raw.githubusercontent.com/anishgowda21/SVG_for_README/main/reddit-2.svg"></a>
 	<a href="https://t.me/phantom2152"> <img  width = 25px align="left"  alt =Anish Telegram src="https://raw.githubusercontent.com/anishgowda21/SVG_for_README/main/telegram.svg"></a>
-	<a href="mailto: simplecomplexthinker@protonmail.com"> <img  width = 25px align="left"  alt =Anish ProtonMail 
-src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/protonmail.svg"></a>
 </p>
 <br>
 <br>
