@@ -1,8 +1,8 @@
  Hey there 👋👋
 
 ## About me 👨‍🎓👨‍🎓👨‍🎓
- **_Name_** :   `Anish Gowda`
-**_Age_** :  `18`
+ **_Name_** :   `Anish Gowda` <br>
+**_Age_** :  `18` <br> 
 **_Who am I_**:  `Student`
 
 ### Get in touch with me on 👇👇
