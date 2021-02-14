@@ -20,5 +20,5 @@
 
 ### Stats⚡⚡
 ![Anish's github stats](https://github-readme-stats.vercel.app/api/?username=anishgowda21&show_icons=true&theme=radical)
-![Anish's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anishgowda21&show_icons=true&theme=radical)
+![Anish's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anishgowda21&layout=compact&theme=radical)
 <!--- Thank you https://github.com/anuraghazra for the awsome stats widget-->
