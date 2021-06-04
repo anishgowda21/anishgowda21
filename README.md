@@ -1,4 +1,4 @@
- Hey there 👋👋
+Namaskara🙏
 
 ## About me 👨‍🎓👨‍🎓👨‍🎓
  **_Name_** :   `Anish Gowda` <br>
