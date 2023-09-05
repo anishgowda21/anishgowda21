@@ -2,8 +2,7 @@ Namaskara🙏
 
 ## About me 👨‍🎓👨‍🎓👨‍🎓
  **_Name_** :   `Anish Gowda` <br>
-**_Age_** :  `19` <br> 
-**_Who am I_**:  `Student`
+**_Age_** :  `21` <br> 
 
 ### Get in touch with me on 👇👇
 <p>
