@@ -1,6 +1,5 @@
 Namaskara🙏
 
-`Anish Gowda` 
 I’m interested in technology, and learning by making things.
 
 ### Stats⚡⚡
