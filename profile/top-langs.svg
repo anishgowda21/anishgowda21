@@ -32,19 +32,19 @@
 <g clip-path="url(#bar)">
   <g class="grow">
     
-    <rect x="24.0" y="56" width="81.31" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="24.0" y="56" width="80.94" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="105.31" y="56" width="56.88" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="104.94" y="56" width="56.61" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="162.19" y="56" width="43.19" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="161.55" y="56" width="42.99" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="205.37" y="56" width="40.82" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="204.54" y="56" width="42.44" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="246.19" y="56" width="36.56" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="246.98" y="56" width="36.39" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="282.75" y="56" width="36.33" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="283.37" y="56" width="36.16" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="319.08" y="56" width="96.92" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="319.53" y="56" width="96.47" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
     
   </g>
 </g>
@@ -52,13 +52,13 @@
 <g class="fade" style="animation-delay: 300ms">
   <circle cx="29.0" cy="92" r="5" fill="#3178c6"/>
   <text class="name" x="42.0" y="96">TypeScript</text>
-  <text class="pct" x="204.0" y="96" text-anchor="end">20.7%</text>
+  <text class="pct" x="204.0" y="96" text-anchor="end">20.6%</text>
 </g>
 
 <g class="fade" style="animation-delay: 360ms">
   <circle cx="225.0" cy="92" r="5" fill="#DA5B0B"/>
   <text class="name" x="238.0" y="96">Jupyter Notebook</text>
-  <text class="pct" x="400.0" y="96" text-anchor="end">14.5%</text>
+  <text class="pct" x="400.0" y="96" text-anchor="end">14.4%</text>
 </g>
 
 <g class="fade" style="animation-delay: 420ms">
@@ -70,7 +70,7 @@
 <g class="fade" style="animation-delay: 480ms">
   <circle cx="225.0" cy="118" r="5" fill="#00ADD8"/>
   <text class="name" x="238.0" y="122">Go</text>
-  <text class="pct" x="400.0" y="122" text-anchor="end">10.4%</text>
+  <text class="pct" x="400.0" y="122" text-anchor="end">10.8%</text>
 </g>
 
 <g class="fade" style="animation-delay: 540ms">
@@ -82,13 +82,13 @@
 <g class="fade" style="animation-delay: 600ms">
   <circle cx="225.0" cy="144" r="5" fill="#e34c26"/>
   <text class="name" x="238.0" y="148">HTML</text>
-  <text class="pct" x="400.0" y="148" text-anchor="end">9.3%</text>
+  <text class="pct" x="400.0" y="148" text-anchor="end">9.2%</text>
 </g>
 
 <g class="fade" style="animation-delay: 660ms">
   <circle cx="29.0" cy="170" r="5" fill="#8b949e"/>
   <text class="name" x="42.0" y="174">Other</text>
-  <text class="pct" x="204.0" y="174" text-anchor="end">24.7%</text>
+  <text class="pct" x="204.0" y="174" text-anchor="end">24.6%</text>
 </g>
 
 
