@@ -32,19 +32,19 @@
 <g clip-path="url(#bar)">
   <g class="grow">
     
-    <rect x="24.0" y="56" width="80.66" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="24.0" y="56" width="80.7" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="104.66" y="56" width="56.02" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="104.7" y="56" width="55.95" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="160.68" y="56" width="45.27" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="160.66" y="56" width="45.48" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="205.95" y="56" width="42.54" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="206.14" y="56" width="42.49" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="248.49" y="56" width="36.01" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="248.63" y="56" width="35.97" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="284.51" y="56" width="35.78" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="284.6" y="56" width="35.73" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="320.28" y="56" width="95.72" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="320.33" y="56" width="95.67" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
     
   </g>
 </g>
@@ -64,13 +64,13 @@
 <g class="fade" style="animation-delay: 420ms">
   <circle cx="29.0" cy="118" r="5" fill="#00ADD8"/>
   <text class="name" x="42.0" y="122">Go</text>
-  <text class="pct" x="204.0" y="122" text-anchor="end">11.5%</text>
+  <text class="pct" x="204.0" y="122" text-anchor="end">11.6%</text>
 </g>
 
 <g class="fade" style="animation-delay: 480ms">
   <circle cx="225.0" cy="118" r="5" fill="#555555"/>
   <text class="name" x="238.0" y="122">C</text>
-  <text class="pct" x="400.0" y="122" text-anchor="end">10.9%</text>
+  <text class="pct" x="400.0" y="122" text-anchor="end">10.8%</text>
 </g>
 
 <g class="fade" style="animation-delay: 540ms">
