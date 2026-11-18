@@ -32,19 +32,19 @@
 <g clip-path="url(#bar)">
   <g class="grow">
     
-    <rect x="24.0" y="56" width="80.79" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="24.0" y="56" width="80.6" height="10" fill="#3178c6" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="104.79" y="56" width="55.75" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="104.6" y="56" width="55.63" height="10" fill="#DA5B0B" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="160.54" y="56" width="45.32" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="160.23" y="56" width="46.1" height="10" fill="#00ADD8" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="205.86" y="56" width="42.33" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="206.33" y="56" width="42.24" height="10" fill="#555555" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="248.19" y="56" width="35.84" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="248.57" y="56" width="35.76" height="10" fill="#00B4AB" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="284.03" y="56" width="35.61" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="284.33" y="56" width="35.53" height="10" fill="#e34c26" stroke="#1a1b26" stroke-width="1.5"/>
     
-    <rect x="319.64" y="56" width="96.36" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
+    <rect x="319.86" y="56" width="96.14" height="10" fill="#8b949e" stroke="#1a1b26" stroke-width="1.5"/>
     
   </g>
 </g>
@@ -64,7 +64,7 @@
 <g class="fade" style="animation-delay: 420ms">
   <circle cx="29.0" cy="118" r="5" fill="#00ADD8"/>
   <text class="name" x="42.0" y="122">Go</text>
-  <text class="pct" x="204.0" y="122" text-anchor="end">11.6%</text>
+  <text class="pct" x="204.0" y="122" text-anchor="end">11.8%</text>
 </g>
 
 <g class="fade" style="animation-delay: 480ms">
@@ -88,7 +88,7 @@
 <g class="fade" style="animation-delay: 660ms">
   <circle cx="29.0" cy="170" r="5" fill="#8b949e"/>
   <text class="name" x="42.0" y="174">Other</text>
-  <text class="pct" x="204.0" y="174" text-anchor="end">24.6%</text>
+  <text class="pct" x="204.0" y="174" text-anchor="end">24.5%</text>
 </g>
 
 
